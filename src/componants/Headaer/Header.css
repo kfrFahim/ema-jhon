@@ -1,0 +1,18 @@
+.header-container{
+     background-color: #1C2B35;
+     height: 80px;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding-left: 100px;
+     padding-right: 80px;
+}
+
+.nav-item a{
+     padding-left:32px;
+     color: aliceblue;
+}
+
+.nav-item a:hover{
+     color:orange;
+}
